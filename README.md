@@ -31,7 +31,7 @@ I believe great design should feel effortless and serve both users and business 
   <img src="https://skillicons.dev/icons?i=html,css,js,php,figma,react,nodejs,express,mongodb,git,github,vscode,tailwind,bootstrap,notion,postman,sqlite" />
   &nbsp;&nbsp;
 </p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" />
+
 **Design & Prototyping:** Figma · Canva · Framer · Miro <br>
 **Frontend Development:** HTML · CSS · JavaScript · React · Bootstrap · Tailwind CSS  
 **Backend & Tools:** PHP · APIs · SQLite · Postman  
