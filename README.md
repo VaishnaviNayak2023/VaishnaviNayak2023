@@ -28,7 +28,7 @@ I believe great design should feel effortless and serve both users and business 
 ## ⚙️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,figma,react,git,github,vscode,tailwind,bootstrap,notion,postman,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,figma,react,nodejs,express,mongodb,git,github,vscode,tailwind,bootstrap,notion,postman,sqlite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" width="50" />  
 </p>
 
