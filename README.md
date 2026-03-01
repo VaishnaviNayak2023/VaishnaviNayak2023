@@ -1,4 +1,4 @@
-<h1 align="center">Vaishnavi • UI/UX Designer • Web Developer </h1>
+<h1 align="center">Vaishnavi • UI/UX Designer • Web Developer • ML Engineer  </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/UI%2FUX-Design-pink" />
@@ -12,15 +12,14 @@
 
 ## 🌸 About Me
 
-Hello, I’m **Vaishnavi Nayak** — a UI/UX designer and frontend developer passionate about crafting clean, intuitive digital experiences that solve real problems.  
-I believe great design should feel effortless and serve both users and business goals with clarity and impact.
+Hello, I’m **Vaishnavi Nayak** — I design and build intuitive digital experiences that solve real problems. Skilled in UI/UX design, web development, and machine learning, I merge creativity with technical expertise to deliver impactful, user-centered solutions. Proficient in Figma, HTML, CSS, JavaScript, PHP, and responsive design, I thrive at the intersection of design, development, and emerging technologies, continuously learning to expand my toolkit and bring ideas to life.
 
 - 🎓 **Third-year Computer Engineering student @ PCCE, Verna**
-- 💡 Skilled in **UI/UX design, design systems, product thinking,** and **frontend development**
+- 💡 Skilled as a **UI/UX Designer, Web Developer, and ML Engineer, with strong product thinking**
 - 💻 Experienced with **HTML, CSS, JavaScript, PHP, and API integrations**
 - 🎨 Proficient in **Figma, Adobe XD, and responsive web design**
-- 🧠 Thrive at the intersection of **design and development**
-- 🌱 Constantly learning new frameworks and tools to expand my creative toolkit  
+- 🧠 Thrive at the intersection of **design, development, and machine learning**
+- 🌱 Continuously learning new tools, frameworks, and ML techniques to expand my capabilities
 - 🤝 Love collaborating with cross-functional teams and bringing ideas to life  
 
 ---
@@ -32,10 +31,10 @@ I believe great design should feel effortless and serve both users and business 
   &nbsp;&nbsp;
 </p>
 
-**Design & Prototyping:** Figma · Canva · Framer · Miro <br>
-**Frontend Development:** HTML · CSS · JavaScript · React · Bootstrap · Tailwind CSS  
-**Backend & Tools:** PHP · APIs · SQLite · Postman  
-**Collaboration & Productivity:** Git · GitHub · Notion · VS Code  
+**Design & Prototyping:** Figma · Adobe XD · Framer · Miro · Canva
+**Frontend Development:** HTML · CSS · JavaScript · React · Bootstrap · Tailwind CSS · Responsive Design
+**Backend & ML Tools:** PHP · APIs · SQLite · Postman · Python · scikit-learn · TensorFlow (ML workflows)
+**Collaboration & Productivity:** Git · GitHub · Notion · VS Code · Agile & Cross-functional teamwork 
 
 ---
 
@@ -45,7 +44,8 @@ I believe great design should feel effortless and serve both users and business 
 |----------|-------------|
 | **SkillConnect - Education Hub** | An education hub built using HTML, CSS, JavaScript, PHP, and APIs — connecting learners and educators through an intuitive interface. |
 | **Ecolink - Environmental Reporting System** | A web platform for collecting, validating, and visualizing environmental data from field reports and sensors. Supports incident reporting, geolocated maps, CSV uploads, automated alerts, and downloadable compliance reports for agencies. |
-| **GradeAI - Auto Grading AI Bot** | (In progress) An AI-powered automated grading system currently under development. It evaluates student submissions (code, essays, and quizzes) using rubric-based logic and natural-language feedback generation. The system integrates with learning platforms, runs test cases in a secure sandbox, and generates analytics for educators. |
+| **RAG GPT – Retrieval-Augmented Generation AI** | (A Retrieval-Augmented Generation (RAG) system built with FastAPI, OpenAI embeddings & LLMs, and FAISS vector store.
+This project allows you to ingest text or PDF documents, create a searchable vector database, and generate AI responses based on context. |
 
 Explore more in my [repositories »](https://github.com/VaishnaviNayak2023)
 
