@@ -27,7 +27,7 @@ Hello, I’m **Vaishnavi Nayak** — I design and build intuitive digital experi
 ## ⚙️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,figma,react,python,colab,opencv,tensorflow,scikitlearn,pandas,numpy,nodejs,express,mongodb,git,github,vscode,tailwind,bootstrap,notion,postman,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,figma,react,python,opencv,tensorflow,scikitlearn,nodejs,express,mongodb,git,github,vscode,tailwind,bootstrap,notion,postman,sqlite" />
   &nbsp;&nbsp;
 </p>
 
