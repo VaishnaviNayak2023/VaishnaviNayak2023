@@ -44,7 +44,7 @@ Hello, I’m **Vaishnavi Nayak** — I design and build intuitive digital experi
 |----------|-------------|
 | **SkillConnect - Education Hub** | An education hub built using HTML, CSS, JavaScript, PHP, and APIs — connecting learners and educators through an intuitive interface. |
 | **Ecolink - Environmental Reporting System** | A web platform for collecting, validating, and visualizing environmental data from field reports and sensors. Supports incident reporting, geolocated maps, CSV uploads, automated alerts, and downloadable compliance reports for agencies. |
-| **RAG GPT – Retrieval-Augmented Generation AI** | (A Retrieval-Augmented Generation (RAG) system built with FastAPI, OpenAI embeddings & LLMs, and FAISS vector store. This project allows you to ingest text or PDF documents, create a searchable vector database, and generate AI responses based on context. |
+| **RAG GPT – Retrieval-Augmented Generation AI** | A Retrieval-Augmented Generation (RAG) system built with FastAPI, OpenAI embeddings & LLMs, and FAISS vector store. This project allows you to ingest text or PDF documents, create a searchable vector database, and generate AI responses based on context. |
 
 Explore more in my [repositories »](https://github.com/VaishnaviNayak2023)
 
