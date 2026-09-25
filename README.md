@@ -13,10 +13,6 @@
 
 ## 🌸 About Me
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-1c4ebc14-f4b4-4e36-9d84-67d38e74c5d6.gif" width="500">
-</p>
-
 Hello, I’m **Vaishnavi Nayak** — I design and build intuitive digital experiences that solve real problems. Skilled in UI/UX design, web development, and machine learning, I merge creativity with technical expertise to deliver impactful, user-centered solutions. Proficient in Figma, HTML, CSS, JavaScript, PHP, and responsive design, I thrive at the intersection of design, development, and emerging technologies, continuously learning to expand my toolkit and bring ideas to life.
 
 - 🎓 **Third-year Computer Engineering student @ PCCE, Verna**
@@ -29,11 +25,6 @@ Hello, I’m **Vaishnavi Nayak** — I design and build intuitive digital experi
 
 ---
 ## ⚙️ Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,figma,react,python,opencv,tensorflow,scikitlearn,nodejs,express,mongodb,git,github,vscode,tailwind,bootstrap,notion,postman,sqlite,vue,quasar" />
-  &nbsp;&nbsp;
-</p>
 
 **Design & Prototyping:** Figma · Adobe XD · Framer · Miro · Canva <br>
 **Frontend Development:** HTML · CSS · JavaScript · React · Bootstrap · Tailwind CSS · Responsive Design <br>
@@ -69,5 +60,9 @@ Explore more in my [repositories »](https://github.com/VaishnaviNayak2023)
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VaishnaviNayak2023&theme=tokyonight&row=1&column=6" />
+</p>
 
 *“Design with empathy, code with purpose.”*  
