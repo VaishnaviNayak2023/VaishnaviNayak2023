@@ -61,8 +61,4 @@ Explore more in my [repositories »](https://github.com/VaishnaviNayak2023)
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VaishnaviNayak2023&theme=tokyonight&row=1&column=6" />
-</p>
-
 *“Design with empathy, code with purpose.”*  
