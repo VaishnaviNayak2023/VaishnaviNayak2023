@@ -24,6 +24,9 @@ Hello, I’m **Vaishnavi Nayak** — I design and build intuitive digital experi
 - 🤝 Love collaborating with cross-functional teams and bringing ideas to life  
 
 ---
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-2f3c7f63-6c3c-4f1f-ae4c-0d1f6a08b4c8.gif" width="700">
+</p>
 
 ## ⚙️ Skills & Tools
 
