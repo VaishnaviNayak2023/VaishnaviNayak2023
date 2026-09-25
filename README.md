@@ -13,6 +13,10 @@
 
 ## 🌸 About Me
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-1c4ebc14-f4b4-4e36-9d84-67d38e74c5d6.gif" width="500">
+</p>
+
 Hello, I’m **Vaishnavi Nayak** — I design and build intuitive digital experiences that solve real problems. Skilled in UI/UX design, web development, and machine learning, I merge creativity with technical expertise to deliver impactful, user-centered solutions. Proficient in Figma, HTML, CSS, JavaScript, PHP, and responsive design, I thrive at the intersection of design, development, and emerging technologies, continuously learning to expand my toolkit and bring ideas to life.
 
 - 🎓 **Third-year Computer Engineering student @ PCCE, Verna**
@@ -24,10 +28,6 @@ Hello, I’m **Vaishnavi Nayak** — I design and build intuitive digital experi
 - 🤝 Love collaborating with cross-functional teams and bringing ideas to life  
 
 ---
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-2f3c7f63-6c3c-4f1f-ae4c-0d1f6a08b4c8.gif" width="700">
-</p>
-
 ## ⚙️ Skills & Tools
 
 <p align="center">
