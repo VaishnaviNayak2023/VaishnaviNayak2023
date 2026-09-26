@@ -15,13 +15,13 @@
 
 Hello, I’m **Vaishnavi Nayak** — I design and build intuitive digital experiences that solve real problems. Skilled in UI/UX design, web development, and machine learning, I merge creativity with technical expertise to deliver impactful, user-centered solutions. Proficient in Figma, HTML, CSS, JavaScript, PHP, and responsive design, I thrive at the intersection of design, development, and emerging technologies, continuously learning to expand my toolkit and bring ideas to life.
 
-- **Third-year Computer Engineering student @ PCCE, Verna**
-- Skilled as a **UI/UX Designer, Web Developer, and ML Engineer, with strong product thinking**
-- Experienced with **HTML, CSS, JavaScript, PHP, and API integrations**
-- Proficient in **Figma, Adobe XD, and responsive web design**
-- Thrive at the intersection of **design, development, and machine learning**
-- Continuously learning new tools, frameworks, and ML techniques to expand my capabilities
-- Love collaborating with cross-functional teams and bringing ideas to life  
+- 🎓 **Third-year Computer Engineering student @ PCCE, Verna**
+- 💡 Skilled as a **UI/UX Designer, Web Developer, and ML Engineer, with strong product thinking**
+- 💻 Experienced with **HTML, CSS, JavaScript, PHP, and API integrations**
+- 🎨 Proficient in **Figma, Adobe XD, and responsive web design**
+- 🧠 Thrive at the intersection of **design, development, and machine learning**
+- 🌱 Continuously learning new tools, frameworks, and ML techniques to expand my capabilities
+- 🤝 Love collaborating with cross-functional teams and bringing ideas to life
 
 ---
 ## Skills & Tools
