@@ -121,11 +121,6 @@ Hello, I’m **Vaishnavi Nayak** — I design and build intuitive digital experi
 ## Github Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VaishnaviNayak2023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviNayak2023&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-</p>
-
-<p align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviNayak2023&theme=tokyonight&hide_border=true&background=1F222E" />
 </p>
 
