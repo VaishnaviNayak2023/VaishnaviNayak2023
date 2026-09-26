@@ -33,91 +33,86 @@ Hello, I’m **Vaishnavi Nayak** — I design and build intuitive digital experi
 
 ---
 
-<h2>⚙️ My Favorite Tools & Technologies</h2>
+<h2>My Favorite Tools & Technologies</h2>
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br>HTML
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br>CSS
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br>JavaScript
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48"/><br>PHP
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=php" width="55"/><br>PHP
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48"/><br>Figma
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=figma" width="55"/><br>Figma
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br>React
 </td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br>Python
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>Python
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"/><br>TensorFlow
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/opencv" width="55"/><br>OpenCV
 </td>
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/opencv" width="48" height="48"/><br>OpenCV
-</td>
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/scikitlearn" width="48" height="48"/><br>Scikit-Learn
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br>Express
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/><br>TensorFlow
 </td>
 </tr>
 
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br>MongoDB
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/scikitlearn" width="55"/><br>Scikit-Learn
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>Node.js
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>GitHub
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=express" width="55"/><br>Express
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br>VS Code
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>MongoDB
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br>Tailwind
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/><br>Bootstrap
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>VS Code
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>Tailwind
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br>Bootstrap
 </td>
 </tr>
 
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=notion" width="48" height="48"/><br>Notion
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=notion" width="55"/><br>Notion
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/><br>Postman
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br>Postman
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48"/><br>SQLite
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br>SQLite
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vue" width="48" height="48"/><br>Vue.js
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vue" width="55"/><br>Vue.js
 </td>
-<td align="center" width="96">
-<img src="https://cdn.simpleicons.org/quasar" width="48" height="48"/><br>Quasar
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/quasar" width="55"/><br>Quasar
 </td>
-<td align="center" width="96">
-&nbsp;
-</td>
+<td colspan="4"></td>
 </tr>
 </table>
 
